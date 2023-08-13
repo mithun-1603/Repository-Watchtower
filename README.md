@@ -10,3 +10,8 @@ Repository Watchtower emerges as a versatile and lightweight solution for compre
 * Watch a single or multiple files.
 * Delivering reports by email.
 * Logging.
+
+**Example scenarios:**
+* Detect unauthorized file content modification. ex; configuration files and source code.
+* Detect unauthorized file creation, ex; web shells.
+* Detect unauthorized file deletion. ex; log file deletion
